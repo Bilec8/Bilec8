@@ -11,8 +11,8 @@ My strongest skills are in Python, and in my free time, I’m learning ASP.NET C
 ## 👨‍💻 Experience
 
 ### Python Developer @ Hyundai Manufacturing (2023 - 2024) 🚗🐍
--- Developed custom software scripts for automating configuration updates and other repetitive tasks.
--- Delivered practical solutions that saved time and reduced manual errors in production processes.
+- Developed custom software scripts for automating configuration updates and other repetitive tasks.
+- Delivered practical solutions that saved time and reduced manual errors in production processes.
 
 ---
 
@@ -29,6 +29,6 @@ My strongest skills are in Python, and in my free time, I’m learning ASP.NET C
 
 - Investing in stocks is like playing chess — one wrong move and you're suddenly wondering where your money went… or your queen! 👑📉
 
--- 
+---
 
 Feel free to connect if you want to chat about tech, sports, or the stock market 📈!
