@@ -2,7 +2,7 @@
 
 Hi, I'm Šimon Bilko!  
 I’m passionate about programming 🐍, new technologies 🤖, and sports — especially hiking 🥾 and chess ♟️.  
-Currently, I’m studying Computer Science at VŠB-TUO Ostrava 🎓.  
+Currently, I’m studying Informatics at VŠB-TUO Ostrava 🎓.  
 
 My strongest skills are in Python, and in my free time, I’m learning ASP.NET Core MVC 🖥️.  
 
